@@ -1,5 +1,6 @@
 # Map_Disasters_Twitter
 
+This project was developed at the request of FEMA contractor New Light Technologies, Inc. and presented to U.S. Air Force and FEMA leadership.
 The goal of this project was to leverage social media to map disasters. In this repo, you will find the following:
 - Code to use Twitter API (https://github.com/belencito27/Map_Disasters_Twitter/blob/master/Twitter%20Scrape.ipynb),
 - Code to our Word2Vec and Map (https://github.com/belencito27/Map_Disasters_Twitter/blob/master/Word2Vect_final%20(1).ipynb),
